@@ -4,7 +4,7 @@ end
 
 def fizz(x, mmk_arr)
 	if x % 15 == 0
-		mmk_arr<< "Mind Minds"
+		mmk_arr<< "Mined Minds"
 	elsif 
 		x % 3 == 0
 		mmk_arr<< "Mined"
