@@ -1,5 +1,5 @@
 def mmk_arr
-	arr = []
+	mmk_arr = []
 end
 
 def fizz(x, mmk_arr)
@@ -17,7 +17,7 @@ def fizz(x, mmk_arr)
 end
 
 x = 1
-arr = []
+mmk_arr = []
 
 until x == 101
 	fizz(x, mmk_arr)
